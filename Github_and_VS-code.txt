@@ -1,0 +1,1 @@
+Hey this was created to show that git and github can directly be used in vs code
